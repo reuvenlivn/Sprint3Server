@@ -405,7 +405,7 @@ module.exports = {
     {
         "created": 1481206586000,
         "duration": 7200000,
-        "id": "236114111",
+        "id":  236114111,
         "name": "Opportunities in the African Energy Markets",
         "rsvp_limit": 90,
         "status": "upcoming",
