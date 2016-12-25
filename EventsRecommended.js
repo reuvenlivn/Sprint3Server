@@ -255,7 +255,7 @@ module.exports = {
     },
     {
         "created": 1482312363000,
-        "id":  236372196,
+        "id": 236372196,
         "name": "Christmastime in the City (Free)",
         "status": "upcoming",
         "time": 1482634800000,
@@ -295,7 +295,7 @@ module.exports = {
     {
         "created": 1480340829000,
         "duration": 4500000,
-        "id":  235878977,
+        "id": 235878977,
         "name": "OnoVation Meetup 61: Entrepreneurship - the good the bad and the ugly",
         "status": "upcoming",
         "time": 1482676200000,
@@ -331,7 +331,7 @@ module.exports = {
     {
         "created": 1469910854000,
         "duration": 12600000,
-        "id":  232998657,
+        "id": 232998657,
         "name": "she codes(tlv); Weekly Hacknight",
         "rsvp_limit": 20,
         "status": "upcoming",
@@ -368,7 +368,7 @@ module.exports = {
     },
     {
         "created": 1460672343000,
-        "id":  236057642,
+        "id": 236057642,
         "name": "bicycle workshop",
         "status": "upcoming",
         "time": 1482688800000,
@@ -451,7 +451,7 @@ module.exports = {
             "label": "price",
             "required": false
         },
-        "id":  236191396,
+        "id": 236191396,
         "name": "ספיד נטוורקינג לאזור ירושלים מיוחד לחנוכה, 26.12.16",
         "status": "upcoming",
         "time": 1482764400000,
@@ -488,7 +488,7 @@ module.exports = {
     {
         "created": 1482049672000,
         "duration": 5400000,
-        "id":  236312882,
+        "id": 236312882,
         "name": "Overcoming the fear of Investment Agreement, By Yaniv Izardel",
         "status": "upcoming",
         "time": 1482766200000,
@@ -524,7 +524,7 @@ module.exports = {
     {
         "created": 1481699006000,
         "duration": 9000000,
-        "id":  236231961,
+        "id": 236231961,
         "name": "The Art of Clean Code - she codes;Coding Skills Event",
         "rsvp_limit": 120,
         "status": "upcoming",
@@ -560,7 +560,7 @@ module.exports = {
     },
     {
         "created": 1481574498000,
-        "id":  236200637,
+        "id": 236200637,
         "name": "Arduino Programming Techniques #4: On memory, pointers, arrays, and bytes.",
         "status": "upcoming",
         "time": 1482771600000,
@@ -597,7 +597,7 @@ module.exports = {
     {
         "created": 1481186887000,
         "duration": 7200000,
-        "id":  236111216,
+        "id": 236111216,
         "name": "\"Startupist\"­­? Learn how to raise money",
         "rsvp_limit": 30,
         "status": "upcoming",
@@ -633,7 +633,7 @@ module.exports = {
     },
     {
         "created": 1416703426000,
-        "id":  236353018,
+        "id": 236353018,
         "name": "she codes(tau) - Weekly HackNight",
         "status": "upcoming",
         "time": 1482940800000,
@@ -668,7 +668,7 @@ module.exports = {
     },
     {
         "created": 1468677615000,
-        "id":  232661706,
+        "id": 232661706,
         "name": "Innovation and creativity methods for startups - Apply them to differentiate!",
         "status": "upcoming",
         "time": 1482942600000,
@@ -705,7 +705,7 @@ module.exports = {
     {
         "created": 1479717453000,
         "duration": 7200000,
-        "id":  235728335,
+        "id": 235728335,
         "name": "A Key to Success: Maximize Benefits of Offshore Outsourcing [Free Event]",
         "rsvp_limit": 120,
         "status": "upcoming",
@@ -742,7 +742,7 @@ module.exports = {
     {
         "created": 1480586995000,
         "duration": 7200000,
-        "id":  235954471,
+        "id": 235954471,
         "name": "Co-Founders Speed Dating & Pitching event - by 8200 EISP",
         "status": "upcoming",
         "time": 1482944400000,
@@ -779,7 +779,7 @@ module.exports = {
     {
         "created": 1480617528000,
         "duration": 10800000,
-        "id":  235963558,
+        "id": 235963558,
         "name": "Entrepreneurship steps from the CTO's point of view",
         "status": "upcoming",
         "time": 1483027200000,
@@ -816,7 +816,7 @@ module.exports = {
     {
         "created": 1480958652000,
         "duration": 12600000,
-        "id":  236047028,
+        "id": 236047028,
         "name": "מפגש פיתוח",
         "rsvp_limit": 30,
         "status": "upcoming",
@@ -861,7 +861,7 @@ module.exports = {
             "label": "price",
             "required": true
         },
-        "id":  236259326,
+        "id": 236259326,
         "name": "לכבוד חנוכה- סדנת סביבונים בהדפסה בתלת מימד להורים וילדים בבת ים",
         "rsvp_limit": 16,
         "status": "upcoming",
@@ -897,7 +897,7 @@ module.exports = {
     },
     {
         "created": 1477844989000,
-        "id":  235220218,
+        "id": 235220218,
         "name": "New Year's Android & IOS All-Night Hackathon",
         "status": "upcoming",
         "time": 1483030800000,
@@ -933,7 +933,7 @@ module.exports = {
     {
         "created": 1480250411000,
         "duration": 9000000,
-        "id":  235856432,
+        "id": 235856432,
         "name": "Employee Stock Options: Terms and Valuation",
         "status": "upcoming",
         "time": 1483284600000,
@@ -968,7 +968,7 @@ module.exports = {
     },
     {
         "created": 1475405198000,
-        "id":  234566034,
+        "id": 234566034,
         "name": "Java 8 Lambda Expressions in Depth",
         "rsvp_limit": 250,
         "status": "upcoming",
@@ -1005,7 +1005,7 @@ module.exports = {
     {
         "created": 1482132647000,
         "duration": 7200000,
-        "id":  236331299,
+        "id": 236331299,
         "name": "מפגש חשיפה ליזמים עסקיים חברתיים בתחום תזונה ואורח חיים בריא – במשרדי שטראוס",
         "status": "upcoming",
         "time": 1483360200000,
@@ -1042,7 +1042,7 @@ module.exports = {
     {
         "created": 1479379299000,
         "duration": 5400000,
-        "id":  235644164,
+        "id": 235644164,
         "name": "Christopher Columbus’ Adventure- A Fascinating Case Study for Entrepreneurs",
         "status": "upcoming",
         "time": 1483369200000,
@@ -1078,7 +1078,7 @@ module.exports = {
     {
         "created": 1481185098000,
         "duration": 7200000,
-        "id":  236110979,
+        "id": 236110979,
         "name": "Your Yearly Review of Customer Experience and Support",
         "status": "upcoming",
         "time": 1483372800000,
@@ -1113,7 +1113,7 @@ module.exports = {
     },
     {
         "created": 1481545181000,
-        "id":  236190420,
+        "id": 236190420,
         "name": "3 Hours intro session - Fullstack Coding Bootcamp",
         "rsvp_limit": 20,
         "status": "upcoming",
@@ -1159,7 +1159,7 @@ module.exports = {
             "label": "price",
             "required": false
         },
-        "id":  236193347,
+        "id": 236193347,
         "name": "אתגרי התיירות שזקוקים לטכנולוגיה במפגש לתיירות והיזמות, 03.01.17",
         "status": "upcoming",
         "time": 1483455600000,
@@ -1196,7 +1196,7 @@ module.exports = {
     {
         "created": 1481207215000,
         "duration": 9000000,
-        "id":  236114208,
+        "id": 236114208,
         "name": "How to & Highlights from the AWS re:Invent 2016",
         "rsvp_limit": 120,
         "status": "upcoming",
@@ -1241,7 +1241,7 @@ module.exports = {
             "label": "price",
             "required": true
         },
-        "id":  236170230,
+        "id": 236170230,
         "name": "!יפן- לא יקר כמו שחשבתם",
         "rsvp_limit": 43,
         "status": "upcoming",
@@ -1278,7 +1278,7 @@ module.exports = {
     {
         "created": 1480500999000,
         "duration": 5400000,
-        "id":  235926861,
+        "id": 235926861,
         "name": "Ace your first meeting with a VC by Ran Levitzky, Carmel Ventures",
         "status": "upcoming",
         "time": 1483515000000,
@@ -1314,7 +1314,7 @@ module.exports = {
     {
         "created": 1478679811000,
         "duration": 7200000,
-        "id":  235458380,
+        "id": 235458380,
         "name": "Hitting the Wall- How to clear financial hurdles in the race for startup success",
         "status": "upcoming",
         "time": 1483516800000,
